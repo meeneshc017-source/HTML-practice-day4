@@ -1,4 +1,4 @@
-### 🌐 3-Page HTML Website — Home | About | Contact
+# 🌐 3-Page HTML Website — Home | About | Contact
 
 This project is a simple 3-page website built using pure HTML.
 It includes a Home page, About page, and Contact page, each demonstrating basic HTML structure, semantic tags, navigation, lists, images, and forms.
@@ -11,7 +11,7 @@ It includes a Home page, About page, and Contact page, each demonstrating basic 
 │── contact.html    # Contact Page
 
 ## 📄 Pages Included
-# 🏠 1. Home Page
+### 🏠 1. Home Page
 
 Welcome message
 
@@ -21,7 +21,7 @@ Navigation links
 
 Footer
 
-# 👤 2. About Page
+### 👤 2. About Page
 
 Basic information about me
 
@@ -29,7 +29,7 @@ Skills list
 
 Clean HTML structure
 
-# ✉️ 3. Contact Page
+### ✉️ 3. Contact Page
 
 HTML contact form
 
@@ -70,6 +70,7 @@ How to structure content using semantic tags
 ## 👨‍💻 Author
 
 Meenesh Chaudhary
+
 🔗 GitHub: https://github.com/meeneshc017-source
 
 🌐 Learning Web Development
